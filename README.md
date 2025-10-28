@@ -5,3 +5,7 @@ A perspective-taking artifical intelligence agent. Made this a few years ago, it
 That's your fault, isn't it?
 
 <!-- E to the Z to the who are you again? -->
+
+## How to run
+
+You don't know *python*? You have **got** to be kidding me.
